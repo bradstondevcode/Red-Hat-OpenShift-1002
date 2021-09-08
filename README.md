@@ -14,7 +14,7 @@ This webinar will try to demystify containers and teach you how you use them wit
 - ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/BdfnQp)
 - ✅ Sample Code for Webinar: [Simple Chat App Repo](http://ibm.biz/simple-chat-app-repo-bradstondev)
 - ✅ Download PDF of Webinar in Repo: [View Here]()
-- ✅ Check out blog version of Webinar [here]()
+- ✅ Check out blog version of Webinar Coming Soon!
 
 ## 😁Please Take Survey After Class😁
 
@@ -35,9 +35,9 @@ Thanks in Advance!
 
 ## Bonus Learning
 
-What is OpenShift [Link](https://www.youtube.com/watch?v=KTN_QBuDplo)
+Simple Guide to Deploying a Node Server to Red Hat OpenShift  [Blog]((https://ibm.biz/deploying-node-to-red-hat-openshift-bradstondev)
 
-Introduction to Red Hat OpenShift Container Platform [Link](https://www.youtube.com/watch?v=dAWPuqZwlOA)
+What are Containers: How Video Games Have Inspired Mt Containerization Journey [Blog](https://ibm.biz/what-are-containers-devto-bradstondev)
 
 Red Hat OpenShift 101: Learn about Enterprise Kubernetes
 [Webinar on Crowdcast](http://ibm.biz/red-hat-101-crowdcast-03022021)
@@ -47,7 +47,7 @@ Red Hat OpenShift 101 continued: Hybrid Cloud with Kubernetes, Logging and Datab
 
 Level Up your Skills: Get Your “Build on Kubernetes” Badge [Crowdcast]((https://www.crowdcast.io/e/level-up-your-skills-get-2) with David Nugent[@drnugent)[https://twitter.com/drnugent]
 
-IBM Open Labs (Red Hat OpenShift on IBM Cloud) [Website](https://developer.ibm.com/openlabs/openshift)
+IBM Open Labs (Red Hat OpenShift on IBM Cloud) [Website](https://ibm.biz/open-labs-red-ha-openshift-bradstondev)
 
 
 ## Feel Free to Follow Me on Social Media
@@ -59,3 +59,23 @@ Dev.to: [@BradstonDev](https://dev.to/bradstondev)
 Youtube: [Bradston YT](https://www.youtube.com/channel/UC6Ky8s71RP65akLb_XV1_OA)
 
 Linkedin: [Bradston Henry](https://www.linkedin.com/in/bradston-henry/)
+
+
+## Other Stuff
+
+
+### My Unity3D Game using Cloudant NoSQL DB Live!
+
+Check out my [webinar on using React and Cloudant](https://ibm.biz/React-andCloudant-Basics-050621) that discusses Cloudant and how to get started. Webinar was inspired by my use of Cloudant in game development.
+
+To Play, Use the password **"workshop2021"** to login. Username can be anything (preferably not your name). 
+
+[![Amber](https://img.itch.zone/aW1hZ2UvMTgzMTA1Lzg1NjI0Mi5wbmc=/original/uvzIJy.png "Amber")](http://https://sleeping-zebu-games.itch.io/amber "Amber")
+
+[Amber Itch.io Link](https://sleeping-zebu-games.itch.io/amber)
+
+This game was created by myself and [Kyle Smith](https://www.linkedin.com/in/kyle-smith-67393b80/)
+
+Amber uses Cloudant NoSQLDB to gain insights on how players play our game and how to make the game better. All information is completely anonymized and has **ZERO** personal information associated to it.
+
+
