@@ -13,7 +13,9 @@ This webinar will try to demystify containers and teach you how you use them wit
 
 - ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/BdfnQp)
 - ✅ Sample Code for Webinar: [Simple Chat App Repo](http://ibm.biz/simple-chat-app-repo-bradstondev)
-- ✅ Download PDF of Webinar in Repo: [View Here]()
+- ✅ Download Docker Desktop:  [Download Page](https://www.docker.com/products/docker-desktop)
+- ✅ Install Node.JS:  [Download Page](https://nodejs.org/en/)
+- ✅ Download PDF of Webinar in Repo: [View Here](https://raw.githubusercontent.com/bradstondevcode/Red-Hat-OpenShift-1002/master/RHOS_1002-09_09_2021.pdf)
 - ✅ Check out blog version of Webinar Coming Soon!
 
 ## 😁Please Take Survey After Class😁
@@ -26,11 +28,11 @@ Thanks in Advance!
 
 ### Resources in Repo
 
-- Workshop Slides: [View Here]()
+- Workshop Slides: [View Here](https://raw.githubusercontent.com/bradstondevcode/Red-Hat-OpenShift-1002/master/RHOS_1002-09_09_2021.pdf)
 
 ### Watch Replays of Sessions
 
-- September 9th, 2021 - Coming Soon!
+- September 9th, 2021 - [Watch Here](https://ibm.biz/red-hat-openshift-1002-09092021)!
 
 
 ## Bonus Learning
