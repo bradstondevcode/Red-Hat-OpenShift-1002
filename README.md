@@ -12,11 +12,34 @@ This webinar will try to demystify containers and teach you how you use them wit
 ## 🔥 Important Workshop First Steps 🔥
 
 - ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/BdfnQp)
+- ✅ Request Access to Red Hat Open Shift Clusters:  **See Steps Below**
 - ✅ Sample Code for Webinar: [Simple Chat App Repo](http://ibm.biz/simple-chat-app-repo-bradstondev)
 - ✅ Download Docker Desktop:  [Download Page](https://www.docker.com/products/docker-desktop)
 - ✅ Install Node.JS:  [Download Page](https://nodejs.org/en/)
 - ✅ Download PDF of Webinar in Repo: [View Here](https://raw.githubusercontent.com/bradstondevcode/Red-Hat-OpenShift-1002/master/RHOS_1002-09_09_2021.pdf)
 - ✅ Check out blog version of Webinar Coming Soon!
+
+
+## Request Access to Red Hat OpenShift Workshop Cluster
+
+Use the steps below to get access for Access for 24hrs to a Red Hat OpenShift cluster. 
+
+**NOTE: Cluster Allocations are limited and first-come, first-serve. Please make sure to reserve your cluster as soon as possible Clusters will shut down approximately 24-hrs after workshop begins**
+
+1) Navigate to:
+
+**https://rhos1002.mybluemix.net**
+
+
+2) Use Lab Key:
+
+**oslab**
+
+3) Check your email to accept invite to RHOS cluster
+
+4) Enjoy! 😎
+
+
 
 ## 😁Please Take Survey After Class😁
 
