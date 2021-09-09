@@ -1,8 +1,8 @@
 # Red Hat OpenShift 1002: Containers and How to Use Them?
 
-This webinar will try to demystify containers and teach you how you use them within application development and deployment. Participants will also have the opportunity to get hands-on expereince with Red Hat OpenShift in this workshop. This is the second part of a series of webinars in the Red Hat OpenShift 1000 Series which aims to give developers a step-by-step guide on the basics RHOS and how to leverage its capabilities. 
+This workshop will try to demystify containers and teach you how you use them within application development and deployment. Participants will also have the opportunity to get hands-on expereince with Red Hat OpenShift in this workshop. This is the second part of a series of webinars/workshops in the Red Hat OpenShift 1000 Series which aims to give developers a step-by-step guide on the basics RHOS and how to leverage its capabilities. 
 
-### Webinar Covers:
+### Workshop Covers:
 
 - The Basics of Container Technology and How It All Works
 - How to Containerize an application on your local machine
@@ -13,11 +13,11 @@ This webinar will try to demystify containers and teach you how you use them wit
 
 - ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/BdfnQp)
 - ✅ Request Access to Red Hat Open Shift Clusters:  **See Steps Below**
-- ✅ Sample Code for Webinar: [Simple Chat App Repo](http://ibm.biz/simple-chat-app-repo-bradstondev)
+- ✅ Sample Code for Workshop: [Simple Chat App Repo](http://ibm.biz/simple-chat-app-repo-bradstondev)
 - ✅ Download Docker Desktop:  [Download Page](https://www.docker.com/products/docker-desktop)
 - ✅ Install Node.JS:  [Download Page](https://nodejs.org/en/)
-- ✅ Download PDF of Webinar in Repo: [View Here](https://raw.githubusercontent.com/bradstondevcode/Red-Hat-OpenShift-1002/master/RHOS_1002-09_09_2021.pdf)
-- ✅ Check out blog version of Webinar Coming Soon!
+- ✅ Download PDF of Workshop in Repo: [View Here](https://raw.githubusercontent.com/bradstondevcode/Red-Hat-OpenShift-1002/master/RHOS_1002-09_09_2021.pdf)
+- ✅ Check out blog version of Workshop Coming Soon!
 
 
 ## Request Access to Red Hat OpenShift Workshop Cluster
@@ -41,7 +41,7 @@ Use the steps below to get access for Access for 24hrs to a Red Hat OpenShift cl
 
 
 
-## 😁Please Take Survey After Class😁
+## 😁Please Take Survey After Workshop😁
 
 This helps me to know how I can improve and make future workshops and webinars EVEN better!
 
@@ -51,16 +51,16 @@ Thanks in Advance!
 
 ### Resources in Repo
 
-- Workshop Slides: [View Here](https://raw.githubusercontent.com/bradstondevcode/Red-Hat-OpenShift-1002/master/RHOS_1002-09_09_2021.pdf)
+- Workshop Slides: [View Here!](https://raw.githubusercontent.com/bradstondevcode/Red-Hat-OpenShift-1002/master/RHOS_1002-09_09_2021.pdf)
 
 ### Watch Replays of Sessions
 
-- September 9th, 2021 - [Watch Here](https://ibm.biz/red-hat-openshift-1002-09092021)!
+- September 9th, 2021 - [Watch Here!](https://ibm.biz/red-hat-openshift-1002-09092021)
 
 
 ## Bonus Learning
 
-Simple Guide to Deploying a Node Server to Red Hat OpenShift  [Blog]((https://ibm.biz/deploying-node-to-red-hat-openshift-bradstondev)
+Simple Guide to Deploying a Node Server to Red Hat OpenShift  [Blog](https://ibm.biz/deploying-node-to-red-hat-openshift-bradstondev)
 
 What are Containers: How Video Games Have Inspired Mt Containerization Journey [Blog](https://ibm.biz/what-are-containers-devto-bradstondev)
 
@@ -70,7 +70,7 @@ Red Hat OpenShift 101: Learn about Enterprise Kubernetes
 Red Hat OpenShift 101 continued: Hybrid Cloud with Kubernetes, Logging and Databases
 [Webinar on Crowdcast](http://ibm.biz/red-hat-101-pt2-crowdcast-03192021)
 
-Level Up your Skills: Get Your “Build on Kubernetes” Badge [Crowdcast]((https://www.crowdcast.io/e/level-up-your-skills-get-2) with David Nugent[@drnugent)[https://twitter.com/drnugent]
+Level Up your Skills: Get Your “Build on Kubernetes” Badge [Crowdcast](https://www.crowdcast.io/e/level-up-your-skills-get-2) with David Nugent[@drnugent](https://twitter.com/drnugent)
 
 IBM Open Labs (Red Hat OpenShift on IBM Cloud) [Website](https://ibm.biz/open-labs-red-ha-openshift-bradstondev)
 
